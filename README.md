@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/0mp4ng1" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/0mp4ng1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
+<br>
 
 <h3 align="center">🛠️ Skills 🛠️</h3>
 <p align="center">
@@ -31,23 +32,22 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 </p>
+<br>
 
 <h3 align="center"> 💻BOJ💻 </h3>
 
 <p align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0mp4ng1)](https://solved.ac/0mp4ng1/)
-
- <img src="http://mazandi.herokuapp.com/api?handle=0mp4ng1&theme=warm"/>
-
+[![BOJ
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0mp4ng1)](https://icpc.me/0mp4ng1)[![0mp4ng1 profile](http://mazandi.herokuapp.com/api?handle=0mp4ng1)](https://solved.ac/0mp4ng1)
  </p>
+
+ <br>
 
 <h3 align="center"> 📚Github📚 </h3>
 
 <p align="center">
 
-[![0mp4ng1's GitHub stats](https://github-readme-stats.vercel.app/api?username=0mp4ng1)](https://github.com/0mp4ng1/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0mp4ng1&layout=compact)](https://github.com/0mp4ng1/github-readme-stats)
+[![0mp4ng1's GitHub stats](https://github-readme-stats.vercel.app/api?username=0mp4ng1)](https://github.com/0mp4ng1/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0mp4ng1&layout=compact)](https://github.com/0mp4ng1/github-readme-stats)
 
 </p>

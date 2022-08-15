@@ -38,18 +38,19 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 💻BOJ💻 </h3>
 
-<center>
+<div align="center">
 
 [![BOJ
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0mp4ng1)](https://icpc.me/0mp4ng1)&nbsp;&nbsp;&nbsp;&nbsp;[![0mp4ng1 profile](http://mazandi.herokuapp.com/api?handle=0mp4ng1)](https://solved.ac/0mp4ng1)
- </center>
+
+</div>
 
  <br>
 
 <h3 align="center"> 📚Github📚 </h3>
 
-<center>
+<div align="center">
 
-[![0mp4ng1's GitHub stats](https://github-readme-stats.vercel.app/api?username=0mp4ng1)](https://github.com/0mp4ng1/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0mp4ng1&layout=compact)](https://github.com/0mp4ng1/github-readme-stats)
+[![0mp4ng1's GitHub stats](https://github-readme-stats.vercel.app/api?username=0mp4ng1&count_private=true&show_icons=true)](https://github.com/0mp4ng1/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0mp4ng1&count_private=true)](https://github.com/0mp4ng1/github-readme-stats)
 
-</center>
+</div>

@@ -16,23 +16,23 @@ Here are some ideas to get you started:
 <h3 align="center">🌱Lee Seoyoun🌱</h3>
 
 <p align="center">
-<a href="mailto:seoyoun059@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/0mp4ng1" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.instagram.com/0mp4ng1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:seoyoun059@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/0mp4ng1" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/0mp4ng1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 <br>
 
 <h3 align="center">🛠️ Skills 🛠️</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>&nbsp
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"></a>&nbsp
+  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat&logo=MySql&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
